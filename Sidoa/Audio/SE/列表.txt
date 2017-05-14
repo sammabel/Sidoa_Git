@@ -1,0 +1,24 @@
+J傑斯特
+O歐西斯
+A愛洛莉亞
+N若瓊羽
+
+01開場
+02攻擊
+03防禦
+04受創
+05技能(攻擊)
+06技能(防禦)
+07技能(恢復)
+08技能(輔助)
+09戰鬥不能
+10勝利
+
+
+
+【素材出處】
+傑斯特　http://wingless-seraph.net/material-voice_nekketsu.html
+歐西斯　http://wingless-seraph.net/material-voice_priest.html
+愛洛莉亞　http://soundeffect-lab.info/sound/voice/game.html
+若瓊羽　http://145.rei-yumesaki.net/article/free-materials-polite-heroine.html
+商店（自行下載）　http://wingless-seraph.net/material-voice_shop.html
